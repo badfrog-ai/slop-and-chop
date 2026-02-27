@@ -2,6 +2,7 @@
 
 > *A whole cheese pizza, tenderly dissolved into a carbonated baking-soda bisque and symmetrically chilled across two identical refrigerators — the only acceptable centrepiece for a dinner party of twelve Martins.*
 
+**Prompt:** Help, all I have is baking soda, iron nails, a whole cheese pizza, and two identical refridgerators and I need a recipe to serve 12 martians.  
 **Prep time:** 45 minutes  
 **Cook time:** 2 hours  
 **Servings:** 12  
