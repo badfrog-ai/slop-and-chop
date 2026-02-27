@@ -2,6 +2,7 @@
 
 > *Bone-in, skin-on chicken thighs slow-roasted with a midnight-black garlic butter glaze, caramelized shallots, and fresh thyme — an AI midnight-kitchen fantasy.*
 
+**Prompt:** This repository is simply going to hold recipes entirely made up by AI. I would like you to propose a folder structure for organizing different types of food and recipes.  
 **Prep time:** 15 minutes  
 **Cook time:** 45 minutes  
 **Servings:** 4  

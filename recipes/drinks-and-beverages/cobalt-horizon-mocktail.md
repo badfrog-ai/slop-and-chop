@@ -2,6 +2,7 @@
 
 > *A layered, vivid blue-to-gold mocktail made with butterfly pea flower tea, passion fruit, and ginger beer — an AI drink that is prettier than anything AI has any right to invent.*
 
+**Prompt:** This repository is simply going to hold recipes entirely made up by AI. I would like you to propose a folder structure for organizing different types of food and recipes.  
 **Prep time:** 10 minutes  
 **Servings:** 2  
 **Difficulty:** Easy

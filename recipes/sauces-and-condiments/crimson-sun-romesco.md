@@ -2,6 +2,7 @@
 
 > *A vibrant, smoky Catalonian-style sauce made with fire-roasted red peppers, charred tomatoes, and almonds — an AI interpretation of a classic that adds a pinch of smoked sea salt magic.*
 
+**Prompt:** This repository is simply going to hold recipes entirely made up by AI. I would like you to propose a folder structure for organizing different types of food and recipes.  
 **Prep time:** 15 minutes  
 **Cook time:** 20 minutes  
 **Makes:** About 1½ cups  
