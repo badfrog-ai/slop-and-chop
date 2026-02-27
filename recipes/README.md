@@ -4,6 +4,7 @@ All recipes in this repository are entirely made up by AI. Browse by category:
 
 | Folder | Description |
 |--------|-------------|
+| [breakfast](breakfast/) | Morning meals, dawn feasts, and impossible holiday traditions |
 | [appetizers](appetizers/) | Starters, snacks, and small bites |
 | [soups-and-stews](soups-and-stews/) | Broths, chowders, bisques, and hearty stews |
 | [salads](salads/) | Green salads, grain salads, and composed salads |
