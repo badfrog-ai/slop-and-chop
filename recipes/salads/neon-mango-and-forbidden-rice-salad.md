@@ -2,6 +2,7 @@
 
 > *Jet-black forbidden rice meets vivid mango, crisp cucumber, and a zippy lime-sesame dressing in this AI-conceived salad that's as striking to look at as it is to eat.*
 
+**Prompt:** This repository is simply going to hold recipes entirely made up by AI. I would like you to propose a folder structure for organizing different types of food and recipes.  
 **Prep time:** 20 minutes  
 **Cook time:** 30 minutes (rice)  
 **Servings:** 4  

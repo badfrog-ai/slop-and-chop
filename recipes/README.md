@@ -23,6 +23,7 @@ Each recipe is a Markdown file named after the dish (e.g., `smoky-ember-chili.md
 
 > *A one-sentence AI-generated description of the dish.*
 
+**Prompt:** The exact user prompt that led to this recipe being created.  
 **Prep time:** X minutes  
 **Cook time:** X minutes  
 **Servings:** X  
