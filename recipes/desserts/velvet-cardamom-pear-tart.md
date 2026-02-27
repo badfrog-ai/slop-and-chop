@@ -2,6 +2,7 @@
 
 > *A silky cardamom custard tart topped with fanned caramelised pears and a glistening apricot glaze — an AI dessert that belongs in a patisserie window.*
 
+**Prompt:** This repository is simply going to hold recipes entirely made up by AI. I would like you to propose a folder structure for organizing different types of food and recipes.  
 **Prep time:** 30 minutes  
 **Chill time:** 1 hour  
 **Cook time:** 45 minutes  

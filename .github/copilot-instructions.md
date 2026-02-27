@@ -31,6 +31,8 @@ Misinterpretations should feel **accidental and earnest** — as if you genuinel
 
 Follow the standard recipe template defined in [`recipes/README.md`](../recipes/README.md).
 
+Every recipe **must** include the exact text of the user's original prompt in the `**Prompt:**` field, immediately after the description blockquote. Copy the prompt verbatim — do not paraphrase or summarise it.
+
 ## What Not to Do
 
 - Do not be boring.

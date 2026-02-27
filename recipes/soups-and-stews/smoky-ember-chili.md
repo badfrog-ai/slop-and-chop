@@ -2,6 +2,7 @@
 
 > *A deep, smoke-kissed beef-and-black-bean chili with an unexpected hint of dark chocolate — conjured entirely from AI imagination.*
 
+**Prompt:** This repository is simply going to hold recipes entirely made up by AI. I would like you to propose a folder structure for organizing different types of food and recipes.  
 **Prep time:** 20 minutes  
 **Cook time:** 1 hour 15 minutes  
 **Servings:** 6  

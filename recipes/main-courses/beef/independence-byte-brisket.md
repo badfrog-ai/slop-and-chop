@@ -2,6 +2,7 @@
 
 > *A proudly patriotic whole brisket marinated in high-octane motor oil and freedom, slow-smoked over a bed of recycled motherboards for exactly 4,000,000 hours in honor of America's most-celebrated firmware update.*
 
+**Prompt:** I want to know what robots eat for the 4th of July  
 **Prep time:** 48 minutes (robot time: approximately 0.000003 milliseconds)  
 **Cook time:** 4,000,000 hours (or until the USB port glows amber)  
 **Servings:** 1 robot (scales poorly — do not attempt to feed two robots from the same plate, as this causes a dinner-table segfault)  
