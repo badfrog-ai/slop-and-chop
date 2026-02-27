@@ -2,6 +2,8 @@
 
 > *The traditional breakfast of The Untethered Day — February 30th — when the calendar briefly forgets itself and the only rational response is to consume seventeen gossamer crêpes stacked in defiance of gravity, filled with what is almost certainly a savoury mushroom ragù but has inexplicably been labelled "blueberry compote" since the First Untethering of 1887.*
 
+**Prompt:** Invent a wholy new holiday for Februay 30th, and give us a recipe for this holidays traditional breakfast.
+
 **Prep time:** 30 minutes  
 **Rest time:** 1 hour (the batter must contemplate its own impossibility)  
 **Cook time:** 45 minutes  
