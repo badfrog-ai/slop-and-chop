@@ -2,6 +2,7 @@
 
 > *Toasted baguette rounds crowned with creamy goat cheese, caramelized figs, and a drizzle of honey-balsamic glaze — an AI-invented starter that somehow sounds real.*
 
+**Prompt:** This repository is simply going to hold recipes entirely made up by AI. I would like you to propose a folder structure for organizing different types of food and recipes.  
 **Prep time:** 15 minutes  
 **Cook time:** 10 minutes  
 **Servings:** 8 (about 24 crostini)  

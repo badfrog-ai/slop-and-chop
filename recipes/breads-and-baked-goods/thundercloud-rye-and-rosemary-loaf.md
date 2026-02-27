@@ -2,6 +2,7 @@
 
 > *A dark, dense rye loaf swirled with caramelised onions and fresh rosemary — a bread entirely invented by an AI that clearly wishes it had a wood-fired oven.*
 
+**Prompt:** This repository is simply going to hold recipes entirely made up by AI. I would like you to propose a folder structure for organizing different types of food and recipes.  
 **Prep time:** 30 minutes  
 **Rise time:** 2 hours  
 **Cook time:** 40 minutes  

@@ -2,6 +2,7 @@
 
 > *Whole roasted carrots glazed with saffron-infused honey butter and finished with pistachios and fresh dill — an AI side dish that sounds like it belongs on a fancy menu.*
 
+**Prompt:** This repository is simply going to hold recipes entirely made up by AI. I would like you to propose a folder structure for organizing different types of food and recipes.  
 **Prep time:** 10 minutes  
 **Cook time:** 30 minutes  
 **Servings:** 4  
